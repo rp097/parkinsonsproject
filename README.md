@@ -1,1 +1,1 @@
-# parkinsonsproject
+Studies have shown that diagnosing the condition of Parkinson's early on can help mitigate the effects of later stages and help control the symptoms from getting worse. This project tries to explore a way to detect the occurance of Parkinson's disease early on based on certain parameters, and tries to ascertain the most ideal algorithm to do so accurately.
